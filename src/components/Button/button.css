@@ -1,0 +1,14 @@
+.buttonLoadMorePost{
+    width: 100%;
+    height: 4em;
+    margin: 25px 25px;
+  
+    border: none;
+    background-color: darkblue;
+    color: #FFFFFF;
+}
+
+.buttonLoadMorePost:disabled {
+    background-color: #888;
+    cursor: not-allowed;
+}
