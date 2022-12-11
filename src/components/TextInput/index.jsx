@@ -8,6 +8,5 @@ export const TextInput = ({searchValue, handleChange}) => {
         type="search" 
         value={searchValue}
         />
-        
     );
 }
